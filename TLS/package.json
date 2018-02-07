@@ -1,0 +1,22 @@
+{
+  "name": "timeloggingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Hulmes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.11.0",
+    "@types/node": "^9.3.0",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.0-alpha.1",
+    "http": "0.0.0",
+    "typescript": "^2.6.2",
+    "vash": "^0.12.3"
+  }
+}
